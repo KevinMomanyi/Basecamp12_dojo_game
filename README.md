@@ -1,4 +1,4 @@
-# Dojo intro
+# Basecamp12_dojo_game
 
 This repository contains a (very) simple [Dojo](https://book.dojoengine.org/) game.
 
@@ -87,4 +87,4 @@ katana --config contracts/katana.toml
 # Start Torii
 torii --config contracts/torii_dev.toml
 ```
-# Basecamp12_dojo_game
+
